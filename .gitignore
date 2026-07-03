@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+assets/
+.vscode/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+pnpm-lock.yaml
+pnpm-workspace.yaml
