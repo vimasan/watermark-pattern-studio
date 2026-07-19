@@ -2,6 +2,8 @@
 
 Watermark Pattern Studio es una aplicación web para añadir, personalizar y exportar marcas de agua sobre imágenes de forma visual e interactiva. La herramienta permite trabajar con un editor de marca de agua, previsualizar el resultado en tiempo real y procesar múltiples imágenes por lotes.
 
+**Visita:** https://vimasan.github.io/watermark-pattern-studio/
+
 ## Características principales
 
 - Editor interactivo para configurar texto o imágenes como marca de agua.
@@ -37,4 +39,5 @@ node --run dev
 ## Notas
 
 La aplicación procesa las imágenes en el navegador, por lo que la exportación y la visualización de resultados dependen del rendimiento del equipo y del navegador utilizado.
+
 
